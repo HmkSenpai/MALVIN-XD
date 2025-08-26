@@ -9,14 +9,14 @@
   "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. Make sure it starts with malvin~",
-        "value":"",
+        "value":"malvin~0qMFFIQC#XtD3R_xh78wFoZKu1fB026TrMDCvKIENsyK7fttPqGY",
         "required": true
         
     },
       "BOT_NAME": {
         "description": "write here your bot name.",
         "required": true,
-        "value": "ᴍᴀʟᴠɪɴ xᴅ" 
+        "value": "Ai Chan" 
         
     },
      "PREFIX": {
