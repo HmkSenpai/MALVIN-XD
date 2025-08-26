@@ -1,10 +1,10 @@
 
 {
-"bot-name": "MALVIN-XD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
+"bot-name": "Ai Chan",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ robbed by Hmksenpai :3",
   "logo": "https://files.catbox.moe/juxfce.jpg",
   "keywords": ["bot"],
-  "documentation-link": "https://malvinxd-pairsession.onrender.com/",
+  "documentation-link": "",
     "owner-verification":"malvink003@gmail.com",
   
     "env": {
@@ -18,7 +18,7 @@
     "OWNER_NUMBER": {
       "description": "Enter owner number",
       "required": true,
-      "value": "263714757857"
+      "value": "237655210486"
       
        },
       "TIMEZONE": {
